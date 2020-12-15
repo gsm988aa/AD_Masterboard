@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP STM32F103ZET6
+D STM32F103ZET6, 32 bit ARM Cortex M3 Microcontroller 72MHz 512kb Flash, 64kb RAM, USB I2C SPI 144-Pin LQFP
+K
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00191185.pdf
+$ENDCMP
+#
+#End Doc Library
