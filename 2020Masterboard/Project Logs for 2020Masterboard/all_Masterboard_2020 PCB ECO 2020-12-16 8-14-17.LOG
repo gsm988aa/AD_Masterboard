@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=TCT Pin=C22-1
+Removed Pin From Net: NetName=GND Pin=C22-2
+Removed Pin From Net: NetName=3.3V Pin=R11-1
+Removed Pin From Net: NetName=TXP Pin=R11-2
+Removed Pin From Net: NetName=3.3V Pin=R12-1
+Removed Pin From Net: NetName=TXN Pin=R12-2
+Removed Pin From Net: NetName=3.3V Pin=R13-1
+Removed Pin From Net: NetName=TCT Pin=R13-2
+Removed Pin From Net: NetName=3.3V Pin=R16-1
+Removed Pin From Net: NetName=3.3V Pin=R17-1
+Removed Member From Class: ClassName=all_Masterboard_2020 Member=C22
+Removed Member From Class: ClassName=all_Masterboard_2020 Member=R11
+Removed Member From Class: ClassName=all_Masterboard_2020 Member=R12
+Removed Member From Class: ClassName=all_Masterboard_2020 Member=R13
+Removed Member From Class: ClassName=all_Masterboard_2020 Member=R16
+Removed Member From Class: ClassName=all_Masterboard_2020 Member=R17
