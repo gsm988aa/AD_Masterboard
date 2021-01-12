@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=NetC23_1 Pin=PS2-1
+Removed Pin From Net: NetName=NetC23_2 Pin=PS2-2
+Removed Pin From Net: NetName=3.3V Pin=PS2-6
+Removed Pin From Net: NetName=NetC94_2 Pin=PS2-7
+Removed Member From Class: ClassName=all_Masterboard_2020 Member=PS2
+Change Component Comment : Designator=R1 Old Comment=Res2 New Comment=1K
+Change Component Comment : Designator=R2 Old Comment=Res2 New Comment=1K
+Change Component Comment : Designator=R3 Old Comment=Res2 New Comment=1K
+Change Component Comment : Designator=R4 Old Comment=Res2 New Comment=1K
+Change Component Comment : Designator=R5 Old Comment=Res2 New Comment=1K
+Change Component Comment : Designator=R6 Old Comment=Res2 New Comment=1K
+Change Component Comment : Designator=R7 Old Comment=Res2 New Comment=1K
+Change Component Comment : Designator=R8 Old Comment=Res2 New Comment=1K
+Change Component Comment : Designator=R9 Old Comment=Res2 New Comment=1K
+Change Component Comment : Designator=R10 Old Comment=Res2 New Comment=1K
+Change Component Comment : Designator=R14 Old Comment=Res2 New Comment=1K
+Change Component Comment : Designator=R15 Old Comment=Res2 New Comment=1K
+Change Component Comment : Designator=R18 Old Comment=Res2 New Comment=1K
+Change Component Comment : Designator=R19 Old Comment=Res2 New Comment=1K
+Change Component Comment : Designator=R20 Old Comment=Res2 New Comment=1K
+Change Component Comment : Designator=R21 Old Comment=Res2 New Comment=1K
+Change Component Comment : Designator=R22 Old Comment=Res2 New Comment=1K
+Change Component Comment : Designator=R29 Old Comment=Res2 New Comment=1K
+Added Component: Designator=PS1(TMR62410WIR)
+Added Pin To Net: NetName=GND Pin=L1-1
+Added Pin To Net: NetName=GND Pin=P10-2
+Added Pin To Net: NetName=NetC23_1 Pin=PS1-1
+Added Pin To Net: NetName=NetC23_2 Pin=PS1-2
+Added Pin To Net: NetName=3.3V Pin=PS1-6
+Added Pin To Net: NetName=NetC94_2 Pin=PS1-7
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=GND Pin=R4-2
+Added Pin To Net: NetName=GND Pin=R5-2
+Added Member To Class: ClassName=all_Masterboard_2020 Member=Component PS1 TMR 6-2410WIR
