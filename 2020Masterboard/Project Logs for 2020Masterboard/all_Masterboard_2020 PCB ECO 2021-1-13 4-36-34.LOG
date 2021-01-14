@@ -1,0 +1,274 @@
+Added Component: Designator=C22(C0201)
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C26(C0201)
+Added Component: Designator=C27(C0201)
+Added Component: Designator=C28(C0201)
+Added Component: Designator=C29(C0201)
+Added Component: Designator=C30(C0201)
+Added Component: Designator=C31(C0201)
+Added Component: Designator=C32(C0201)
+Added Component: Designator=C33(C0201)
+Added Component: Designator=C34(C0201)
+Added Component: Designator=C35(C0201)
+Added Component: Designator=C36(C0201)
+Added Component: Designator=C37(C0201)
+Added Component: Designator=C38(C0201)
+Added Component: Designator=C39(C0201)
+Added Component: Designator=C40(C0201)
+Added Component: Designator=C41(C0201)
+Added Component: Designator=C42(C0201)
+Added Component: Designator=C43(C0201)
+Added Component: Designator=C44(C0201)
+Added Component: Designator=C45(C0201)
+Added Component: Designator=C46(C0201)
+Added Component: Designator=C47(C0201)
+Added Component: Designator=C48(C0201)
+Added Component: Designator=C49(C0201)
+Added Component: Designator=C50(C0201)
+Added Component: Designator=C51(C0201)
+Added Component: Designator=C52(C0201)
+Added Component: Designator=C53(C0201)
+Added Component: Designator=C54(C0201)
+Added Component: Designator=C55(C0201)
+Added Component: Designator=C56(C0201)
+Added Component: Designator=C57(C0201)
+Added Component: Designator=C58(C0201)
+Added Component: Designator=C59(C0201)
+Added Component: Designator=C60(C0201)
+Added Component: Designator=C61(C0201)
+Added Component: Designator=C62(C0201)
+Added Component: Designator=C63(C0201)
+Added Component: Designator=C64(C0201)
+Added Component: Designator=C65(C0201)
+Added Component: Designator=C66(C0201)
+Added Component: Designator=C67(C0201)
+Added Component: Designator=C68(C0201)
+Added Component: Designator=C69(C0201)
+Added Component: Designator=C70(C0201)
+Added Component: Designator=C71(C0201)
+Added Component: Designator=C72(C0201)
+Added Component: Designator=C73(C0201)
+Added Component: Designator=C74(C0201)
+Added Component: Designator=C75(C0201)
+Added Component: Designator=C76(C0201)
+Added Component: Designator=C77(C0201)
+Added Component: Designator=C78(C0201)
+Added Component: Designator=C79(C0201)
+Added Component: Designator=C80(C0201)
+Added Component: Designator=C81(C0201)
+Added Component: Designator=C82(C0201)
+Added Component: Designator=C83(C0201)
+Added Component: Designator=C84(C0201)
+Added Component: Designator=C85(C0201)
+Added Component: Designator=C86(C0201)
+Added Component: Designator=C87(C0201)
+Added Component: Designator=C88(C0201)
+Added Component: Designator=C89(C0201)
+Added Component: Designator=C90(C0201)
+Added Component: Designator=C91(C0201)
+Added Component: Designator=C95(C0201)
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=S2_NRST Pin=C22-1
+Added Pin To Net: NetName=GND Pin=C22-2
+Added Pin To Net: NetName=3.3V Pin=C26-1
+Added Pin To Net: NetName=GND Pin=C26-2
+Added Pin To Net: NetName=3.3V Pin=C27-1
+Added Pin To Net: NetName=GND Pin=C27-2
+Added Pin To Net: NetName=3.3V Pin=C28-1
+Added Pin To Net: NetName=GND Pin=C28-2
+Added Pin To Net: NetName=3.3V Pin=C29-1
+Added Pin To Net: NetName=GND Pin=C29-2
+Added Pin To Net: NetName=3.3V Pin=C30-1
+Added Pin To Net: NetName=GND Pin=C30-2
+Added Pin To Net: NetName=3.3V Pin=C31-1
+Added Pin To Net: NetName=GND Pin=C31-2
+Added Pin To Net: NetName=3.3V Pin=C32-1
+Added Pin To Net: NetName=GND Pin=C32-2
+Added Pin To Net: NetName=3.3V Pin=C33-1
+Added Pin To Net: NetName=GND Pin=C33-2
+Added Pin To Net: NetName=3.3V Pin=C34-1
+Added Pin To Net: NetName=GND Pin=C34-2
+Added Pin To Net: NetName=3.3V Pin=C35-1
+Added Pin To Net: NetName=GND Pin=C35-2
+Added Pin To Net: NetName=3.3V Pin=C36-1
+Added Pin To Net: NetName=GND Pin=C36-2
+Added Pin To Net: NetName=3.3V Pin=C37-1
+Added Pin To Net: NetName=GND Pin=C37-2
+Added Pin To Net: NetName=3.3V Pin=C38-1
+Added Pin To Net: NetName=GND Pin=C38-2
+Added Pin To Net: NetName=3.3V Pin=C39-1
+Added Pin To Net: NetName=GND Pin=C39-2
+Added Pin To Net: NetName=3.3V Pin=C40-1
+Added Pin To Net: NetName=GND Pin=C40-2
+Added Pin To Net: NetName=3.3V Pin=C41-1
+Added Pin To Net: NetName=GND Pin=C41-2
+Added Pin To Net: NetName=3.3V Pin=C42-1
+Added Pin To Net: NetName=GND Pin=C42-2
+Added Pin To Net: NetName=3.3V Pin=C43-1
+Added Pin To Net: NetName=GND Pin=C43-2
+Added Pin To Net: NetName=3.3V Pin=C44-1
+Added Pin To Net: NetName=GND Pin=C44-2
+Added Pin To Net: NetName=3.3V Pin=C45-1
+Added Pin To Net: NetName=GND Pin=C45-2
+Added Pin To Net: NetName=3.3V Pin=C46-1
+Added Pin To Net: NetName=GND Pin=C46-2
+Added Pin To Net: NetName=3.3V Pin=C47-1
+Added Pin To Net: NetName=GND Pin=C47-2
+Added Pin To Net: NetName=3.3V Pin=C48-1
+Added Pin To Net: NetName=GND Pin=C48-2
+Added Pin To Net: NetName=3.3V Pin=C49-1
+Added Pin To Net: NetName=GND Pin=C49-2
+Added Pin To Net: NetName=3.3V Pin=C50-1
+Added Pin To Net: NetName=GND Pin=C50-2
+Added Pin To Net: NetName=3.3V Pin=C51-1
+Added Pin To Net: NetName=GND Pin=C51-2
+Added Pin To Net: NetName=3.3V Pin=C52-1
+Added Pin To Net: NetName=GND Pin=C52-2
+Added Pin To Net: NetName=3.3V Pin=C53-1
+Added Pin To Net: NetName=GND Pin=C53-2
+Added Pin To Net: NetName=3.3V Pin=C54-1
+Added Pin To Net: NetName=GND Pin=C54-2
+Added Pin To Net: NetName=3.3V Pin=C55-1
+Added Pin To Net: NetName=GND Pin=C55-2
+Added Pin To Net: NetName=3.3V Pin=C56-1
+Added Pin To Net: NetName=GND Pin=C56-2
+Added Pin To Net: NetName=3.3V Pin=C57-1
+Added Pin To Net: NetName=GND Pin=C57-2
+Added Pin To Net: NetName=3.3V Pin=C58-1
+Added Pin To Net: NetName=GND Pin=C58-2
+Added Pin To Net: NetName=3.3V Pin=C59-1
+Added Pin To Net: NetName=GND Pin=C59-2
+Added Pin To Net: NetName=3.3V Pin=C60-1
+Added Pin To Net: NetName=GND Pin=C60-2
+Added Pin To Net: NetName=3.3V Pin=C61-1
+Added Pin To Net: NetName=GND Pin=C61-2
+Added Pin To Net: NetName=3.3V Pin=C62-1
+Added Pin To Net: NetName=GND Pin=C62-2
+Added Pin To Net: NetName=3.3V Pin=C63-1
+Added Pin To Net: NetName=GND Pin=C63-2
+Added Pin To Net: NetName=3.3V Pin=C64-1
+Added Pin To Net: NetName=GND Pin=C64-2
+Added Pin To Net: NetName=3.3V Pin=C65-1
+Added Pin To Net: NetName=GND Pin=C65-2
+Added Pin To Net: NetName=3.3V Pin=C66-1
+Added Pin To Net: NetName=GND Pin=C66-2
+Added Pin To Net: NetName=3.3V Pin=C67-1
+Added Pin To Net: NetName=GND Pin=C67-2
+Added Pin To Net: NetName=3.3V Pin=C68-1
+Added Pin To Net: NetName=GND Pin=C68-2
+Added Pin To Net: NetName=3.3V Pin=C69-1
+Added Pin To Net: NetName=GND Pin=C69-2
+Added Pin To Net: NetName=3.3V Pin=C70-1
+Added Pin To Net: NetName=GND Pin=C70-2
+Added Pin To Net: NetName=3.3V Pin=C71-1
+Added Pin To Net: NetName=GND Pin=C71-2
+Added Pin To Net: NetName=3.3V Pin=C72-1
+Added Pin To Net: NetName=GND Pin=C72-2
+Added Pin To Net: NetName=3.3V Pin=C73-1
+Added Pin To Net: NetName=GND Pin=C73-2
+Added Pin To Net: NetName=3.3V Pin=C74-1
+Added Pin To Net: NetName=GND Pin=C74-2
+Added Pin To Net: NetName=3.3V Pin=C75-1
+Added Pin To Net: NetName=GND Pin=C75-2
+Added Pin To Net: NetName=3.3V Pin=C76-1
+Added Pin To Net: NetName=GND Pin=C76-2
+Added Pin To Net: NetName=3.3V Pin=C77-1
+Added Pin To Net: NetName=GND Pin=C77-2
+Added Pin To Net: NetName=3.3V Pin=C78-1
+Added Pin To Net: NetName=GND Pin=C78-2
+Added Pin To Net: NetName=3.3V Pin=C79-1
+Added Pin To Net: NetName=GND Pin=C79-2
+Added Pin To Net: NetName=3.3V Pin=C80-1
+Added Pin To Net: NetName=GND Pin=C80-2
+Added Pin To Net: NetName=3.3V Pin=C81-1
+Added Pin To Net: NetName=GND Pin=C81-2
+Added Pin To Net: NetName=3.3V Pin=C82-1
+Added Pin To Net: NetName=GND Pin=C82-2
+Added Pin To Net: NetName=3.3V Pin=C83-1
+Added Pin To Net: NetName=GND Pin=C83-2
+Added Pin To Net: NetName=3.3V Pin=C84-1
+Added Pin To Net: NetName=GND Pin=C84-2
+Added Pin To Net: NetName=3.3V Pin=C85-1
+Added Pin To Net: NetName=GND Pin=C85-2
+Added Pin To Net: NetName=3.3V Pin=C86-1
+Added Pin To Net: NetName=GND Pin=C86-2
+Added Pin To Net: NetName=3.3V Pin=C87-1
+Added Pin To Net: NetName=GND Pin=C87-2
+Added Pin To Net: NetName=3.3V Pin=C88-1
+Added Pin To Net: NetName=GND Pin=C88-2
+Added Pin To Net: NetName=3.3V Pin=C89-1
+Added Pin To Net: NetName=GND Pin=C89-2
+Added Pin To Net: NetName=3.3V Pin=C90-1
+Added Pin To Net: NetName=GND Pin=C90-2
+Added Pin To Net: NetName=3.3V Pin=C91-1
+Added Pin To Net: NetName=GND Pin=C91-2
+Added Pin To Net: NetName=M_NRST Pin=C95-1
+Added Pin To Net: NetName=GND Pin=C95-2
+Added Member To Class: ClassName=all_Masterboard_2020 Member=Component C22 100nF
+Added Member To Class: ClassName=all_Masterboard_2020 Member=Component C26 100nF
+Added Member To Class: ClassName=all_Masterboard_2020 Member=Component C27 100nF
+Added Member To Class: ClassName=all_Masterboard_2020 Member=Component C28 100nF
+Added Member To Class: ClassName=all_Masterboard_2020 Member=Component C29 100nF
+Added Member To Class: ClassName=all_Masterboard_2020 Member=Component C30 100nF
+Added Member To Class: ClassName=all_Masterboard_2020 Member=Component C31 100nF
+Added Member To Class: ClassName=all_Masterboard_2020 Member=Component C32 100nF
+Added Member To Class: ClassName=all_Masterboard_2020 Member=Component C33 100nF
+Added Member To Class: ClassName=all_Masterboard_2020 Member=Component C34 100nF
+Added Member To Class: ClassName=all_Masterboard_2020 Member=Component C35 100nF
+Added Member To Class: ClassName=all_Masterboard_2020 Member=Component C36 100nF
+Added Member To Class: ClassName=all_Masterboard_2020 Member=Component C37 100nF
+Added Member To Class: ClassName=all_Masterboard_2020 Member=Component C38 100nF
+Added Member To Class: ClassName=all_Masterboard_2020 Member=Component C39 100nF
+Added Member To Class: ClassName=all_Masterboard_2020 Member=Component C40 100nF
+Added Member To Class: ClassName=all_Masterboard_2020 Member=Component C41 100nF
+Added Member To Class: ClassName=all_Masterboard_2020 Member=Component C42 100nF
+Added Member To Class: ClassName=all_Masterboard_2020 Member=Component C43 100nF
+Added Member To Class: ClassName=all_Masterboard_2020 Member=Component C44 100nF
+Added Member To Class: ClassName=all_Masterboard_2020 Member=Component C45 100nF
+Added Member To Class: ClassName=all_Masterboard_2020 Member=Component C46 100nF
+Added Member To Class: ClassName=all_Masterboard_2020 Member=Component C47 100nF
+Added Member To Class: ClassName=all_Masterboard_2020 Member=Component C48 100nF
+Added Member To Class: ClassName=all_Masterboard_2020 Member=Component C49 100nF
+Added Member To Class: ClassName=all_Masterboard_2020 Member=Component C50 100nF
+Added Member To Class: ClassName=all_Masterboard_2020 Member=Component C51 100nF
+Added Member To Class: ClassName=all_Masterboard_2020 Member=Component C52 100nF
+Added Member To Class: ClassName=all_Masterboard_2020 Member=Component C53 100nF
+Added Member To Class: ClassName=all_Masterboard_2020 Member=Component C54 100nF
+Added Member To Class: ClassName=all_Masterboard_2020 Member=Component C55 100nF
+Added Member To Class: ClassName=all_Masterboard_2020 Member=Component C56 100nF
+Added Member To Class: ClassName=all_Masterboard_2020 Member=Component C57 100nF
+Added Member To Class: ClassName=all_Masterboard_2020 Member=Component C58 100nF
+Added Member To Class: ClassName=all_Masterboard_2020 Member=Component C59 100nF
+Added Member To Class: ClassName=all_Masterboard_2020 Member=Component C60 100nF
+Added Member To Class: ClassName=all_Masterboard_2020 Member=Component C61 100nF
+Added Member To Class: ClassName=all_Masterboard_2020 Member=Component C62 100nF
+Added Member To Class: ClassName=all_Masterboard_2020 Member=Component C63 100nF
+Added Member To Class: ClassName=all_Masterboard_2020 Member=Component C64 100nF
+Added Member To Class: ClassName=all_Masterboard_2020 Member=Component C65 100nF
+Added Member To Class: ClassName=all_Masterboard_2020 Member=Component C66 100nF
+Added Member To Class: ClassName=all_Masterboard_2020 Member=Component C67 100nF
+Added Member To Class: ClassName=all_Masterboard_2020 Member=Component C68 100nF
+Added Member To Class: ClassName=all_Masterboard_2020 Member=Component C69 100nF
+Added Member To Class: ClassName=all_Masterboard_2020 Member=Component C70 100nF
+Added Member To Class: ClassName=all_Masterboard_2020 Member=Component C71 100nF
+Added Member To Class: ClassName=all_Masterboard_2020 Member=Component C72 100nF
+Added Member To Class: ClassName=all_Masterboard_2020 Member=Component C73 100nF
+Added Member To Class: ClassName=all_Masterboard_2020 Member=Component C74 100nF
+Added Member To Class: ClassName=all_Masterboard_2020 Member=Component C75 100nF
+Added Member To Class: ClassName=all_Masterboard_2020 Member=Component C76 100nF
+Added Member To Class: ClassName=all_Masterboard_2020 Member=Component C77 100nF
+Added Member To Class: ClassName=all_Masterboard_2020 Member=Component C78 100nF
+Added Member To Class: ClassName=all_Masterboard_2020 Member=Component C79 100nF
+Added Member To Class: ClassName=all_Masterboard_2020 Member=Component C80 100nF
+Added Member To Class: ClassName=all_Masterboard_2020 Member=Component C81 100nF
+Added Member To Class: ClassName=all_Masterboard_2020 Member=Component C82 100nF
+Added Member To Class: ClassName=all_Masterboard_2020 Member=Component C83 100nF
+Added Member To Class: ClassName=all_Masterboard_2020 Member=Component C84 100nF
+Added Member To Class: ClassName=all_Masterboard_2020 Member=Component C85 100nF
+Added Member To Class: ClassName=all_Masterboard_2020 Member=Component C86 100nF
+Added Member To Class: ClassName=all_Masterboard_2020 Member=Component C87 100nF
+Added Member To Class: ClassName=all_Masterboard_2020 Member=Component C88 100nF
+Added Member To Class: ClassName=all_Masterboard_2020 Member=Component C89 100nF
+Added Member To Class: ClassName=all_Masterboard_2020 Member=Component C90 100nF
+Added Member To Class: ClassName=all_Masterboard_2020 Member=Component C91 100nF
+Added Member To Class: ClassName=all_Masterboard_2020 Member=Component C95 100nF

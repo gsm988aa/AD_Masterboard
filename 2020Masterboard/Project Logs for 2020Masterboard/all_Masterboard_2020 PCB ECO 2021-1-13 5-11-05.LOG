@@ -1,0 +1,13 @@
+Change Component Footprint: Designator=C22 Old Footprint=0603 New Footprint=c0805
+Added Component: Designator=M1(HOLE2R7-4)
+Added Component: Designator=M2(HOLE2R7-4)
+Added Component: Designator=M3(HOLE2R7-4)
+Added Component: Designator=M4(HOLE2R7-4)
+Added Pin To Net: NetName=GND Pin=M1-1
+Added Pin To Net: NetName=GND Pin=M2-1
+Added Pin To Net: NetName=GND Pin=M3-1
+Added Pin To Net: NetName=GND Pin=M4-1
+Added Member To Class: ClassName=all_Masterboard_2020 Member=Component M1 HOLE2R7-4
+Added Member To Class: ClassName=all_Masterboard_2020 Member=Component M2 HOLE2R7-4
+Added Member To Class: ClassName=all_Masterboard_2020 Member=Component M3 HOLE2R7-4
+Added Member To Class: ClassName=all_Masterboard_2020 Member=Component M4 HOLE2R7-4
