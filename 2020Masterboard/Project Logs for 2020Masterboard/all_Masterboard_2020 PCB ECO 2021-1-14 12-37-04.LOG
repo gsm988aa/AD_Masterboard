@@ -1,0 +1,5 @@
+Added Component: Designator=R35(6-0805_N)
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R35-1
+Added Pin To Net: NetName=NetR34_1 Pin=R35-2
+Added Member To Class: ClassName=all_Masterboard_2020 Member=Component R35 10K
