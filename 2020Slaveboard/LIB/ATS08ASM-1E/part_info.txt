@@ -1,9 +1,0 @@
-Manufacturer=CTS
-PartNumber=ATS08ASM-1E
-PartCategory=Crystal or Oscillator
-PackageCategory=Other
-PinCount=2
-Version=1.1
-Released=2019-04-25 16:27:26
-Downloaded=2020-12-15 14:16:58
-3D=Y

@@ -1,9 +1,0 @@
-Manufacturer=Traco Power
-PartNumber=TMR 6-2410
-PartCategory=Undefined or Miscellaneous
-PackageCategory=Other
-PinCount=7
-Version=4.1
-Released=2017-09-04 11:23:32
-Downloaded=2021-01-07 02:55:47
-3D=Y
