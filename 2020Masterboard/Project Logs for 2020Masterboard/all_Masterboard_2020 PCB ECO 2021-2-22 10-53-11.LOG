@@ -1,0 +1,16 @@
+Change Component Footprint: Designator=C92 Old Footprint=C0603 New Footprint=c1210
+Change Component Footprint: Designator=C91 Old Footprint=C1808 New Footprint=c1210
+Change Component Comment : Designator=IC8 Old Comment=DS18B20+T&R New Comment=690367290476
+Change Component Comment : Designator=IC9 Old Comment=DS18B20+T&R New Comment=690367290476
+Change Component Comment : Designator=IC10 Old Comment=DS18B20+T&R New Comment=690367290476
+Change Component Comment : Designator=IC11 Old Comment=DS18B20+T&R New Comment=690367290476
+Change Component Comment : Designator=P10 Old Comment=MHDR1X2 New Comment=2091-1422
+Change Component Comment : Designator=P2 Old Comment=MHDR1X4 New Comment=690367290476
+Change Component Comment : Designator=P3 Old Comment=MHDR1X4 New Comment=690367290476
+Change Component Comment : Designator=P9 Old Comment=MHDR1X4 New Comment=690367290476
+Change Component Comment : Designator=P11 Old Comment=MHDR1X4 New Comment=690367290476
+Change Component Comment : Designator=P4 Old Comment=MHDR2X10 New Comment=690367292076
+Change Component Comment : Designator=P5 Old Comment=MHDR2X10 New Comment=690367292076
+Change Component Comment : Designator=P6 Old Comment=MHDR2X10 New Comment=690367292076
+Change Component Comment : Designator=P7 Old Comment=MHDR2X10 New Comment=690367292076
+Change Component Comment : Designator=P8 Old Comment=MHDR2X10 New Comment=690367292076
